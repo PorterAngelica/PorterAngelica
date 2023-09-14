@@ -2,5 +2,5 @@
 - 👀 I’m interested in computer science, . I'm a programming entusiastic. I love creating, building things and building them to life.
 - 🌱 I’m currently learning software development, I'm currently working on conquering HTML/ CSS / Python / JavaScript / Java.
 - 📫 How to reach me - angelicamelanytrejo12@gmail.com
-- 📫 LinkedIn - https://www.linkedin.com/in/melany-porter
+- 📫 LinkedIn https://www.linkedin.com/in/melany-porter
 
