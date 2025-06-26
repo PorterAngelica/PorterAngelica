@@ -1,13 +1,8 @@
-- 👋 Hi, I’m Angelica Porter or just called me Melany :) , I'm from El Salvador 🇸🇻 currently living in Florida 🌞
-- 👀 I’m interested in computer science, . I'm a programming entusiastic. I love creating, building things and bring them to life.
-- 🌱 I’m currently learning software development, I'm currently working on conquering HTML/ CSS / Python / JavaScript / Java.
-- 📫 How to reach me - angelicamelanyporter@gmail.com
-- 📫 LinkedIn https://www.linkedin.com/in/melany-porter
 
 # 👋 Hi, I'm Angelica Porter
 
 🎯 **Aspiring IT Support Specialist** based in California  
-💻 Currently studying **CompTIA A+**, **Network+**, and **Security+**  
+💻 Currently studying **Google IT support professional cert**, and **Security+**  
 🛠️ Building practical labs, documentation, and automation scripts  
 🌐 Passionate about troubleshooting, cybersecurity, and continuous learning  
 🗣️ Bilingual: English & Spanish
@@ -41,10 +36,10 @@ Hands-on labs and configurations related to A+, Network+, and Security+
 
 - Practicing for the **CompTIA Security+ (SY0-701)** exam
 - Publishing labs and study notes for each certification
-- Improving professional English for remote IT roles
+  
 
 ---
 
 📫 **Contact me**:  
-[LinkedIn](https://www.linkedin.com/in/tuusuario) *(add your profile)*  
-📧 Email: tuemail@example.com  
+[LinkedIn](https://www.linkedin.com/in/melany-porter)   
+📧 Email: angelicamelanyporter@gmail.com  
